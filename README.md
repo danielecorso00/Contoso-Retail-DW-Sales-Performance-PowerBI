@@ -44,5 +44,5 @@ To make sure the numbers in the dashboard are accurate and consistent, I structu
 ---
 
 ## Files in this Repository
-* `Contoso Retail DW Power BI Project Daniele Corso` – Full Power BI Desktop file.
+* `Contoso_Retail_DW_PowerBI_Project_Daniele_Corso` – Full Power BI Desktop file.
 * `screenshots/` – High-resolution images of the two dashboard pages.
